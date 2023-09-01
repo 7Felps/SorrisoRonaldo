@@ -1,2 +1,3 @@
 # SorrisoRonaldo
- OuterWilds Mod
+ A Outer Wilds Mod that replaces the flashback sound to SORRISO RONALDO.
+ Preview: https://youtu.be/8cMm1CNeJVM
